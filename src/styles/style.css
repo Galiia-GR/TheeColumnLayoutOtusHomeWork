@@ -23,7 +23,7 @@ a {
 }
 
 .header {
-  display: inline-flex;
+  display: flex;
   width: 98%;
   align-items: center;
   justify-content: start;
@@ -48,7 +48,7 @@ a {
   height: auto;
   flex-direction: row;
   margin-top: 10px;
-  display: inline-flex;
+  display: flex;
   justify-content: space-between;
   width: 99%;
   margin-left: 10px;
@@ -90,7 +90,7 @@ a {
 }
 
 .footer_list {
-  display: iflex;
+  display: flex;
   align-items: center;
   flex-direction: row;
 }

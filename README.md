@@ -7,4 +7,5 @@
 - сделать пуллреквест для отображения изменений;
 - подключить к нему линтеры и actions;
 - к описанию пуллреквеста приложить ссылку на просмотр страницы (с использованием rawgithack).
-- макет доступен по ссылке: https://raw.githack.com/Galiia-GR/TheeColumnLayoutOtusHomeWork/develop/src/index.html
+- макет доступен по ссылке: https://galiia-gr.github.io/TheeColumnLayoutOtusHomeWork/
+
